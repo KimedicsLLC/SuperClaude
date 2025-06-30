@@ -1,4 +1,4 @@
-# SuperClaude – Development Framework for Claude Code
+# SuperClaude – Development Framework for Claude Code and soon to be Gemini CLI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-2.0.1-blue.svg)](https://github.com/NomenAK/SuperClaude)

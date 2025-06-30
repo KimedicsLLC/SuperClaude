@@ -15,7 +15,7 @@ SuperClaude v2 introduces architectural improvements focused on maintainability 
 
 - **⚡ Streamlined Architecture**: @include reference system for configuration management
 - **🎭 Personas as Flags**: 9 cognitive personas integrated into the flag system (`--persona-architect`, `--persona-security`, etc.)
-- **📦 Enhanced Installer**: install.sh with update mode, dry-run, backup handling, and platform detection
+- **📦 Enhanced Installer**: install.sh with update mode, dry-run, backup handling, & platform detection
 - **🔧 Modular Design**: Template system for adding new commands and features
 - **🎯 Unified Experience**: Consistent flag behavior across all commands
 
